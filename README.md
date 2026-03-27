@@ -69,9 +69,11 @@ All-in-one-Bazar
 ├── package.json
 └── README.md
 ```
-⚙️ Installation
+## ⚙️ Installation
 
-  git clone <repo-link>
-  cd All-in-one-Bazar
-  npm install
-  npm run dev
+```bash
+git clone <repository-link>
+cd All-in-one-Bazar
+npm install
+npm run dev
+```
