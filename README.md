@@ -5,20 +5,26 @@ A modern full-stack e-commerce web application where users can browse products, 
 This project demonstrates full-stack development skills including REST API design, authentication, database management, and responsive UI development.
 
 🚀 Features
+
 👤 User Features
+
 User registration and login
 Browse products by category
 Add products to cart
 Place orders securely
 View order history
 Responsive UI for all devices
+
 🛠 Admin Features
+
 Admin authentication
 Add / update / delete products
 Manage orders
 Manage users
 Dashboard for monitoring store activity
+
 🧰 Tech Stack
+
 Frontend
 React.js
 Tailwind CSS
@@ -64,7 +70,8 @@ All-in-one-Bazar
 └── README.md
 ```
 ⚙️ Installation
-git clone <repo-link>
-cd All-in-one-Bazar
-npm install
-npm run dev
+
+  git clone <repo-link>
+  cd All-in-one-Bazar
+  npm install
+  npm run dev
